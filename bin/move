@@ -1,5 +1,5 @@
-#!/usr/bin/env ruby
-
+"Welcome to Tic Tac Toe" #!/usr/bin/env ruby
+board = (" "," "," "," "," "," "," "," ")
 require_relative '../lib/move.rb'
 
 # Code your CLI Here
